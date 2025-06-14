@@ -217,7 +217,7 @@ ls -la *.txt
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/ultra-fast-ip-generator.git
+git clone https://github.com/kamrulx86/ultra-fast-ip-generator.git
 cd ultra-fast-ip-generator
 go mod init ultra-fast-ip-generator
 go mod tidy
@@ -239,7 +239,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/ultra-fast-ip-generator/issues) page
+1. Check the [Issues](https://github.com/kamrulx86/ultra-fast-ip-generator/issues) page
 2. Create a new issue with detailed description
 3. Include your Go version and OS information
 
