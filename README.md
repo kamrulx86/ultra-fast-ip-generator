@@ -25,7 +25,7 @@ A blazing-fast Go application that generates millions of random public IP addres
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/ultra-fast-ip-generator.git
+git clone https://github.com/kamrulx86/ultra-fast-ip-generator.git
 cd ultra-fast-ip-generator
 ```
 
